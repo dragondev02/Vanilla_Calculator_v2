@@ -397,9 +397,9 @@ html, body {
 .calculator{
     height: 50rem;
     width: 35rem;
-    box-shadow: 0px 0px 15px 3px rgba(230,223,223,0.75);
-    -webkit-box-shadow: 0px 0px 15px 3px rgba(230,223,223,0.75);
-    -moz-box-shadow: 0px 0px 15px 3px rgba(230,223,223,0.75);
+    box-shadow: 0px 0px 10px 3px rgba(230,223,223,0.75);
+    -webkit-box-shadow: 0px 0px 10px 3px rgba(230,223,223,0.75);
+    -moz-box-shadow: 0px 0px 10px 3px rgba(230,223,223,0.75);
     display: grid;
     grid-template-rows: 1fr 2.3fr;
 }
