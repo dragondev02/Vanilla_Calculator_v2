@@ -1,6 +1,6 @@
 # Vanilla Calculator v2
 
-This is another take on my [previous](https://shinratensei02.github.io/Light_Calculator/) calculator project. It now as a simpler design but there are some major adjustments in the code.
+This is another take on my [previous](https://shinratensei02.github.io/Light_Calculator/) calculator project. It now has a simplified design but there are some major adjustments in the code.
 
 🔗 **Live preview:** [here](https://shinratensei02.github.io/Vanilla_Calculator_v2/)
 
