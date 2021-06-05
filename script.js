@@ -8,7 +8,7 @@
 
     const clear = document.querySelector(".clear");
 
-    const decimal = document.querySelector('[data-dec="."]');
+    const decimal = document.querySelector('[data-dec=","]');
 
     const equal = document.querySelector('[data-res="="]');
 
@@ -309,7 +309,7 @@ function resetall()
 
 // Add a decimal point to the screen. Only one can be added in a string of numbers.
 
-function decimalAdd(decimal)
+function decimalAdd()
 {
     // Add on-screen effect
     active(decimal);
